@@ -3,8 +3,8 @@ Use TensorFlow to create a recurrent neural network that can translate simple ph
 
 A sampling of the dataset:
 
-![alt text](Screen Shot 2018-01-06 at 2.09.05 PM.png)
+![alt text](https://github.com/SrahSrah/Language-Translation/blob/master/Screen%20Shot%202018-01-06%20at%202.09.05%20PM.png)
 
 Results:
 
-![alt text](Screen Shot 2018-01-06 at 2.11.04 PM.png)
+![alt text](https://github.com/SrahSrah/Language-Translation/blob/master/Screen%20Shot%202018-01-06%20at%202.11.04%20PM.png)
