@@ -8,3 +8,7 @@ A sampling of the dataset:
 Results:
 
 ![alt text](https://github.com/SrahSrah/Language-Translation/blob/master/Screen%20Shot%202018-01-06%20at%202.11.04%20PM.png)
+
+
+## Less than Perfect Translation
+Because we only trained on a megabyte of data with a limitied vocabulary, the translation is less than perfect. Had we trained on a larger dataset, the resultant translations would be more accurate.
